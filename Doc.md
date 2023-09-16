@@ -3,14 +3,14 @@ Spring 23 Directed-Research Repository for ECE
 Section - 5
 
 
-Prepared by : Mohammad Mansib Newaz [ECE CSE network architecture]
+Prepared by: Mohammad Mansib Newaz [ECE CSE network architecture]
               Mohammad Ismail Hossain Sidiqueee [AI]
               Alifa Khan [AI]
               Zarin Musharrat [AI]
 
 
               
-Supervisor :  Asst. Prof. Dr. Atiqur Rahman 
+Supervisor:  Asst. Prof. Dr. Atiqur Rahman 
 Department of Electronics and Computer Engineering
 School of physics and engineering
 
